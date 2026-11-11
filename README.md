@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Madina Tinkory — Personal Portfolio
 
-## Getting Started
+A modern, responsive personal portfolio website built with Next.js, React, and Tailwind CSS. Featuring a warm pastel aesthetic, interactive micro-animations, scroll-triggered reveals, and a showcase of software engineering projects.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo & Repository
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Live Deployment: https://madina-portfolio.vercel.app
+- GitHub Repository: https://github.com/tinkorymadina/madina-portfolio
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features & Highlights
 
-## Learn More
+- Hero & Identity: Custom two-column hero layout with a clean circular profile portrait, dynamic keyword highlighting, and quick metadata badges.
+- Curated Projects Showcase:
+  - Warranty Vault & Receipt Auditor: Mobile utility for scanning receipts and managing product warranties in Mauritian Rupees.
+  - Taskflow Pro: Responsive daily task planner with time-based scheduling and local persistence.
+  - Word Counter & Text Analytics: Single-page analytics web app with live frequency metrics and stop-word filtering (Live Demo: https://wordcounter-sand.vercel.app/).
+  - Precision Age Calculator: Clean calculation utility with responsive layout.
+- Pastel Color Harmony: Custom pastel palette (Lavender, Sage Green, Warm Butter, Soft Blush) balanced against high-contrast charcoal typography for optimal readability.
+- Motion & Micro-Interactions:
+  - Native IntersectionObserver scroll-reveal animations that fluidly re-trigger as elements enter and exit the viewport.
+  - Interactive hover elevation and tactile button bounce states using hardware-accelerated Tailwind transitions (zero heavy external animation libraries).
+- Direct Contact Integrations: Direct email trigger and seamless WhatsApp integration (Chat on WhatsApp).
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Framework: Next.js (App Router, Turbopack)
+- Styling: Tailwind CSS
+- Language: TypeScript / React
+- Deployment: Vercel
+- Development Tooling: Google Antigravity / Visual Studio Code
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📦 Getting Started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Prerequisites
+
+Ensure you have Node.js (v18 or higher) and npm installed.
+
+### Installation & Local Setup
+
+1. Clone the repository:
+   git clone https://github.com/tinkorymadina/madina-portfolio.git
+   cd madina-portfolio
+
+2. Install dependencies:
+   npm install
+
+3. Run the local development server:
+   npm run dev
+   Open http://localhost:3000 (or http://localhost:3001) in your browser to view the application.
+
+4. Build for production:
+   npm run build
+
+---
+
+## 👤 Author
+
+Madina Tinkory
+- Location: Mauritius
+- GitHub: https://github.com/tinkorymadina
+- LinkedIn: https://linkedin.com
