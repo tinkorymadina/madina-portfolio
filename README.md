@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built with Next.js, React, and T
 
 ## 🚀 Live Demo & Repository
 
-- Live Deployment: https://madina-portfolio.vercel.app
+- Live Deployment: [madina-portfolio](https://madina-portfolio-green.vercel.app/)
 - GitHub Repository: https://github.com/tinkorymadina/madina-portfolio
 
 ---
